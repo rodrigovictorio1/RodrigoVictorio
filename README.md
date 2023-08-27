@@ -23,16 +23,21 @@
     
 -   _**Banco de dados**_
 
-    <p>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    </p>
+    <div style="display: inline">
+        <p>
+            <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL">
+          </p>
+    </div>
     
 -   _**Ferramentas**_
     <p>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      <div style="display: inline">
+        <p>
+            <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git">
+            <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub">
+            <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code">
+          </p>
+    </div>
     </p>
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Quando&nbsp;é&nbsp;óbvio&nbsp;que&nbsp;os&nbsp;objetivos&nbsp;não&nbsp;podem&nbsp;ser&nbsp;alcançados,<br/>não&nbsp;ajuste&nbsp;as&nbsp;metas,&nbsp;mas&nbsp;sim&nbsp;as&nbsp;etapas&nbsp;da&nbsp;ação.&author=Confucio&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
